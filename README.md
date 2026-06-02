@@ -40,6 +40,7 @@ Migración de datos con **30% de ahorro** en tiempo de reporte
 ---
 
 ## 🎓 Certificaciones
+
 |Certificación |Fecha
 |--- |---
 |Oracle Java Foundations |2022
@@ -47,3 +48,23 @@ Migración de datos con **30% de ahorro** en tiempo de reporte
 |Oracle Database Foundations |2022
 |Oracle Database Design |2022
 |Ciberseguridad (Generalitat) |2022
+
+## 🎓 Formación
+
+ - Grado Superior DAM · UOC · 2022-2024
+ - Técnico Superior Informática Empresarial · Cibernos · 2000-2003
+
+## 🌐 Idiomas
+
+|Idioma |Nivel
+|--- |---
+|Español |Nativo
+|Catalán |Nativo
+|Inglés  |B1
+|Francés |B1
+## 📫 Contacto
+
+    📧 Israel_melli@hotmail.com
+    🔗 www.linkedin.com/in/israel-mellado-pou-a5a69329
+
+
