@@ -12,13 +12,13 @@ Programador **DAM** (Desarrollo de Aplicaciones Multiplataforma) con más de **2
 `Python` `Java` `C#` `SQL` `Kotlin` `JavaScript` `PHP` `HTML` `CSS` `C++` `C` `RPG`
 
 ### 📀 Bases de Datos
-`MySQL` `Oracle` `PostgreSQL` `DB2` `SQLite` 'MS Sql' · Optimización de consultas SQL
+`MySQL` `Oracle` `PostgreSQL` `DB2` `SQLite` `MS Sql` · Optimización de consultas SQL
 
 ### 🖥️ Sistemas
 `Windows` `Linux` `UNIX` `AS400` · Gestión de servidores
 
 ### 🐳 Herramientas
-`Git` `GitHub` `Docker`
+`Git` `GitHub` `Docker` `VMWare`
 
 ### 📊 Análisis de Datos
 `Power BI` `Excel Avanzado` · Dashboards interactivos
@@ -60,8 +60,9 @@ Mantenimiento sistemas, cambio aplicaciones empresas externas.
 |--- |---
 |Español |Nativo
 |Catalán |Nativo
-|Inglés  |B1
-|Francés |B1
+|Inglés  |B2
+|Francés |A1
+
 ## 📫 Contacto
 
     📧 Israel_melli@hotmail.com
