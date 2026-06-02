@@ -12,7 +12,7 @@ Programador **DAM** (Desarrollo de Aplicaciones Multiplataforma) con más de **2
 `Python` `Java` `C#` `SQL` `Kotlin` `JavaScript` `PHP` `HTML` `CSS` `C++` `C` `RPG`
 
 ### 📀 Bases de Datos
-`MySQL` `Oracle` `PostgreSQL` `DB2` `SQLite` · Optimización de consultas SQL
+`MySQL` `Oracle` `PostgreSQL` `DB2` `SQLite` 'MS Sql' · Optimización de consultas SQL
 
 ### 🖥️ Sistemas
 `Windows` `Linux` `UNIX` `AS400` · Gestión de servidores
@@ -35,7 +35,7 @@ Aplicación de gestión comercial Java + MySQL
 - Seguimiento de preparación de pedidos
 
 ### 📈 Migration AS400 → Cloud
-Migración de datos con **30% de ahorro** en tiempo de reporte
+Mantenimiento sistemas, cambio aplicaciones empresas externas.
 
 ---
 
