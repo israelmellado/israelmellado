@@ -8,7 +8,7 @@ Programador **DAM** (Desarrollo de Aplicaciones Multiplataforma) con más de **2
 
 ## 🛠️ Habilidades Técnicas
 
-### 🧠 Inteligencia Artificial y LLMsLLMs Locales (Ollama, Phi-3, Llama 3.2) Integración de APIs de IA Prompt Engineering Model Context Protocol (MCP) Desarrollo de Agentes y Herramientas (Tools)
+### 🧠 Inteligencia Artificial y LLMs Locales (Ollama, Phi-3, Llama 3.2) Integración de APIs de IA Prompt Engineering Model Context Protocol (MCP) Desarrollo de Agentes y Herramientas (Tools)
 
 ### 💻 Lenguajes de Programación
 `Python` `Java` `C#` `SQL` `Kotlin` `JavaScript` `PHP` `HTML` `CSS` `C++` `C` `RPG`
