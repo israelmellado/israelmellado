@@ -1,69 +1,65 @@
-# 💻 Israel Mellado
+# 🚀 Israel Mellado | IT Manager & Senior Tech Leader
 
-## 🎯 Perfil
-
-Programador **DAM** (Desarrollo de Aplicaciones Multiplataforma) con más de **20 años de experiencia** en TI, liderando departamentos tecnológicos y desarrollando soluciones de datos.
+Con más de **24 años de experiencia en el sector TI**, combino la visión estratégica y la toma de decisiones de la gestión de departamentos tecnológicos (360º) con un perfil técnico moderno y actualizado. Especialista en liderar transformaciones digitales, optimización de procesos y analítica de datos orientada al negocio.
 
 ---
 
-## 🛠️ Habilidades Técnicas
+## 🛠️ Ecosistema Tecnológico
 
-### 🧠 Inteligencia Artificial y LLMs Locales (Ollama, Phi-3, Llama 3.2) Integración de APIs de IA Prompt Engineering Model Context Protocol (MCP) Desarrollo de Agentes y Herramientas (Tools)
+### 🧠 Inteligencia Artificial y Agentes (Última Generación)
+* **LLMs Locales:** Ollama, Phi-3, Llama 3.2, Prompt Engineering.
+* **Arquitectura de IA:** Model Context Protocol (MCP), Desarrollo de Agentes Autónomos y Herramientas (Tools).
 
 ### 💻 Lenguajes de Programación
-`Python` `Java` `C#` `SQL` `Kotlin` `JavaScript` `PHP` `HTML` `CSS` `C++` `C` `RPG`
+![Python](https://shields.io) ![Java](https://shields.io) ![C#](https://shields.io) ![Kotlin](https://shields.io) ![SQL](https://shields.io) ![RPG](https://shields.io %20AS400-Grey?style=flat-square)  
+*Otros:* JavaScript, PHP, HTML5, CSS3, C++, C.
 
-### 📀 Bases de Datos
-`MySQL` `Oracle` `PostgreSQL` `DB2` `SQLite` `MS Sql` · Optimización de consultas SQL
+### 📀 Bases de Datos y Analítica
+* **BBDD:** MySQL, Oracle, PostgreSQL, DB2, SQLite, MS SQL.
+* **Especialidad:** Optimización avanzada de consultas SQL, modelado de datos y administración.
+* **Business Intelligence:** Power BI (Dashboards interactivos), Excel Avanzado.
 
-### 🖥️ Sistemas
-`Windows` `Linux` `UNIX` `AS400` · Gestión de servidores
-
-### 🐳 Herramientas
-`Git` `GitHub` `Docker` `VMWare`
-
-### 📊 Análisis de Datos
-`Power BI` `Excel Avanzado` · Dashboards interactivos
+### 🖥️ Sistemas, DevOps e Infraestructura
+* **Sistemas Operativos:** Windows, Linux, UNIX, AS400 (Gestión integral de servidores).
+* **Herramientas & Cloud:** Git, GitHub, Docker, VMWare.
 
 ---
 
-## 📦 Proyectos
+## 📦 Proyectos Destacados
 
-### 🏪 Tienda ORCA - Sistema ERP
-Aplicación de gestión comercial Java + MySQL
-- Gestión integral de artículos, clientes y pedidos
-- Control de stock en tiempo real
-- Descuentos automáticos para clientes premium
-- Seguimiento de preparación de pedidos
+### 🏪 Tienda ORCA — Sistema ERP Integrado
+*Aplicación de gestión comercial desarrollada en Java + MySQL.*
+* **Funcionalidades:** Gestión 360º de artículos, clientes y pedidos con control de stock en tiempo real.
+* **Lógica de negocio:** Motor automatizado de descuentos para clientes premium y tracking del flujo de preparación de pedidos.
 
-### 📈 Migration AS400 → Cloud
-Mantenimiento sistemas, cambio aplicaciones empresas externas.
+### 📈 Migración Estratégica: AS400 → Cloud
+*Liderazgo técnico en la transición evolutiva de infraestructuras críticas.*
+* **Impacto:** Auditoría, mantenimiento y migración de sistemas legacy hacia entornos modernos en la nube, coordinando aplicaciones de proveedores externos.
 
 ---
 
-## 🎓 Certificaciones
+## 🎓 Certificaciones y Formación
 
-|Certificación |Fecha
-|--- |---
-|Oracle Java Foundations |2022
-|Oracle Java Programming |2022
-|Oracle Database Foundations |2022
-|Oracle Database Design |2022
-|Ciberseguridad (Generalitat) |2022
+### Certificaciones Oficiales
+* **Oracle:** Java Foundations | Java Programming | Database Foundations | Database Design (2022).
+* **Ciberseguridad:** Certificación Oficial por la Generalitat de Catalunya (2022).
 
-## 🎓 Formación
+### Formación Académica
+* **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** | UOC (2022 - 2024).
+* **Técnico Superior en Informática Empresarial** | Cibernos (2000 - 2003).
 
- - Grado Superior DAM · UOC · 2022-2024
- - Técnico Superior Informática Empresarial · Cibernos · 2000-2003
+---
 
-## 🌐 Idiomas
+## 🌐 Idiomas y Datos de Contacto
 
-|Idioma |Nivel
-|--- |---
-|Español |Nativo
-|Catalán |Nativo
-|Inglés  |B2
-|Francés |A1
+| Idioma | Nivel | Canal | Contacto |
+| :--- | :--- | :--- | :--- |
+| **Español** | Nativo | 📧 **Email** | [israel_melli@hotmail.com](mailto:israel_melli@hotmail.com) |
+| **Catalán** | Nativo | 💼 **LinkedIn** | [linkedin.com/in/israel-mellado-pou-a5a69329](https://linkedin.com) |
+| **Inglés** | **B2** | 📍 **Disponibilidad** | **100% Remoto** / Full-time |
+| **Francés** | A1 | | |
+
+
 
 ## 📫 Contacto
 
