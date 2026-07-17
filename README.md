@@ -15,8 +15,9 @@ Con más de **24 años de experiencia en el sector TI**, combino la visión estr
 | TECNOLOGÍAS | | | | |
 | --- | --- | --- | --- | --- |
 | ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) | ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas) | ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite) | ![Pytest](https://img.shields.io/badge/Pytest-Passing-success?logo=pytest) | ![CI](https://github.com/israelmellado/datos-abiertos-barcelona-etl/actions/workflows/python-tests.yml/badge.svg) |
-| ![GitHub last commit](https://img.shields.io/github/last-commit/israelmellado/datos-abiertos-barcelona-etl) | ![GitHub repo size](https://img.shields.io/github/repo-size/israelmellado/datos-abiertos-barcelona-etl) | ![GitHub stars](https://img.shields.io/github/stars/israelmellado/datos-abiertos-barcelona-etl?style=social) | ![License](https://img.shields.io/badge/License-MIT-green) 
-|![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json) | ![Dynamic YAML Badge](https://img.shields.io/badge/dynamic/yaml) |[SQL ](https://img.shields.io/badge/SQL)
+| | ![GitHub repo size](https://img.shields.io/github/repo-size/israelmellado/datos-abiertos-barcelona-etl) |  | ![License](https://img.shields.io/badge/License-MIT-green) 
+|![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json) |  | ![SQL postgres](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Microsoft SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927) | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white) 
+| ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![KOTLIN](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white) | ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white)
 
 
 | |
@@ -67,10 +68,5 @@ Con más de **24 años de experiencia en el sector TI**, combino la visión estr
 | **Francés** | A1 | | |
 
 
-
-## 📫 Contacto
-
-    📧 Israel_melli@hotmail.com
-    🔗 www.linkedin.com/in/israel-mellado-pou-a5a69329
 
 
