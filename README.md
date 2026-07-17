@@ -11,8 +11,11 @@ Con más de **24 años de experiencia en el sector TI**, combino la visión estr
 * **Arquitectura de IA:** Model Context Protocol (MCP), Desarrollo de Agentes Autónomos y Herramientas (Tools).
 
 ### 💻 Lenguajes de Programación
-![Python](https://shields.io) ![Java](https://shields.io) ![C#](https://shields.io) ![Kotlin](https://shields.io) ![SQL](https://shields.io) ![RPG](https://shields.io %20AS400-Grey?style=flat-square)  
-*Otros:* JavaScript, PHP, HTML5, CSS3, C++, C.
+
+| TECNOLOGÍAS | | | | |
+| --- | --- | --- | --- | --- |
+| ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python) | ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?logo=pandas) | ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite) | ![Pytest](https://img.shields.io/badge/Pytest-Passing-success?logo=pytest) | ![CI](https://github.com/israelmellado/datos-abiertos-barcelona-etl/actions/workflows/python-tests.yml/badge.svg) |
+| ![GitHub last commit](https://img.shields.io/github/last-commit/israelmellado/datos-abiertos-barcelona-etl) | ![GitHub repo size](https://img.shields.io/github/repo-size/israelmellado/datos-abiertos-barcelona-etl) | ![GitHub stars](https://img.shields.io/github/stars/israelmellado/datos-abiertos-barcelona-etl?style=social) | ![License](https://img.shields.io/badge/License-MIT-green) | |
 
 ### 📀 Bases de Datos y Analítica
 * **BBDD:** MySQL, Oracle, PostgreSQL, DB2, SQLite, MS SQL.
